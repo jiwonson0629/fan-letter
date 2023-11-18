@@ -1,0 +1,40 @@
+
+  [
+        {
+          "createdAt": "2023-11-03T02:07:09.423Z",
+          "nickname": "드레이코 루시우스 말포이",
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/36.jpg",
+          "content": "해리! 디멘터들이 네 안부를 묻더라!! 하하ㅏ하ㅏ하ㅏ하ㅏ!!!",
+          "writedTo": "Gryffindor",
+          "id": "1"
+        },
+        {
+          "createdAt": "2023-11-02T23:13:18.491Z",
+          "nickname": "루나 엘리자베스 러브굿",
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/298.jpg",
+          "content": "없어진건 다시 돌아오게 되어있어. 그 방법이 좀 다를지라도 말이야",
+          "writedTo": "Ravenclaw",
+          "id": "2"
+        },
+        {
+          "createdAt": "2023-11-02T11:25:37.026Z",
+          "nickname": "세드릭 디고리",
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/646.jpg",
+          "content": "영웅은 그저 아무것도 하지 않는 것이 훨씬 더 쉬울 때 옳은 일을 하는 사람이야.",
+          "writedTo": "Hufflepuff",
+          "id": "3"
+        },
+        {
+          "createdAt": "2023-11-02T16:06:34.150Z",
+          "nickname": "해리포터",
+          "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/37.jpg",
+          "content": "조용히 해 말포이 ",
+          "writedTo": "Slytherin",
+          "id": "4"
+        }
+        
+      ]
+
+
+  
+  
